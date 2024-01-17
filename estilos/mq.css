@@ -1,5 +1,18 @@
 @charset "UTF-8";
 
-@media screen (){
-    
+
+@media screen and (max-width: 600px) {
+    .cabecalho {
+        display: block;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .conteudo-principal-img {
+        width: 200px;
+        padding: 10px;
+    }
+
+
+
 }
